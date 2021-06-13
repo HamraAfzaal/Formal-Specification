@@ -1,6 +1,6 @@
 # Formal-Specification
 This is a formal modeling and verification of a Secure and Trustworthy Blockchain-based Crowdsourcing (STBC) consensus protocol.
-It ensures safety, fault tolerance, leader trust,and validator trust properties.
+It ensures safety, fault tolerance, leader trust and validator trust properties.
 
 ## Prerequisites
 Process Analysis Toolkit (PAT). http://pat.comp.nus.edu.sg/.
